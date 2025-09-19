@@ -90,6 +90,7 @@ Advanced Cybersecurity Certifications
 ## 📁 Repository Contents
 
 - `Topics.md` - Detailed exam topics and subtopics
+- `StudyGuide.md` - Relavant topic mapping and a 7-day preperation strategy
 - `Cisco-Certified-Support-Technician-CCST-Networking-100-150-Official-Cert-Guide_Technet24.pdf` - Official certification guide
 
 ## 🚀 Getting Started
@@ -114,3 +115,4 @@ This repository is for educational purposes. All Cisco trademarks and certificat
 **Good luck with your CCST Cybersecurity certification journey!** 🛡️
 
 *Last updated: September 2025*
+
